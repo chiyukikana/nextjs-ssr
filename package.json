@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "format": "prettier --ignore-path .gitignore --write '**/*.+(css|html|json|js|ts|tsx)'"
+    "format": "prettier --ignore-path .gitignore --write \"**/*.+(css|html|json|js|ts|tsx)\""
   },
   "dependencies": {
     "next": "12.3.1",
